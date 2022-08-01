@@ -65,9 +65,13 @@ export default {
       margin: 0;
     }
     &__title{
+      font-family: 'itim-regular', sans-serif;
       color: #fff;
       position: relative;
       margin-right: 24px;
+      font-size: 24px;
+      line-height: 24px;
+      font-weight: 400;
       &:before{
         content: '';
         position: absolute;
